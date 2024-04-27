@@ -1,6 +1,6 @@
 ![Header](https://camo.githubusercontent.com/1a57aadd3e3acf01dabccb3640f88eb2ec22c216f74dc807a2f3bfb7614c7634/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7a6c6d77746733666f673131595863555f72766657412e676966)
 
-<h1 align="center">Hi 👋, I'm Salik Seraj Naik</h1>
+<h1 align="center">Hi 👋, Myself Salik Seraj Naik</h1>
 <h3 align="center">🧑🏻‍💻 Learning FullStack | 🤖 Exploring AI | 🧠 Delving into ML & Data Science | 🛡️ Cybersecurity Enthusiast | CSE`2027</h3>
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **cpp and frontend development also generative ai**
 
-- 💬 Ask me about **frontend , C , cyber security**
 
 - 📫 How to reach me **salikserajnaik@gmail.com**
 
