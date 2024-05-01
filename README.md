@@ -1,4 +1,4 @@
-![Header](https://camo.githubusercontent.com/1a57aadd3e3acf01dabccb3640f88eb2ec22c216f74dc807a2f3bfb7614c7634/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7a6c6d77746733666f673131595863555f72766657412e676966)
+<img src="github bg.jpeg" alt="Header Image"> </img>
 
 <h1 align="center">Hi 👋, Myself Salik Seraj Naik</h1>
 <h3 align="center">🧑🏻‍💻 Learning FullStack | 🤖 Exploring AI | 🧠 Delving into ML & Data Science | 🛡️ Cybersecurity Enthusiast | CSE`2027</h3>
