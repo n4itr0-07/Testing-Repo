@@ -1,4 +1,4 @@
-<img src="github bg.jpeg" alt="Header Image"> </img>
+<img src="header_Image.png" alt="Header Image"> </img>
 
 <h1 align="center">Hi 👋, Myself Salik Seraj Naik</h1>
 <h3 align="center">🧑🏻‍💻 Learning FullStack | 🤖 Exploring AI | 🧠 Delving into ML & Data Science | 🛡️ Cybersecurity Enthusiast | CSE`2027</h3>
