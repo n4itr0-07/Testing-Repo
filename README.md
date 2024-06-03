@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/code_with_ssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_with_ssn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/salik-seraj-naik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salik-seraj-naik" height="30" width="40" /></a>
-<a href="https://instagram.com/salik_seraj_naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salik_seraj_naik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/code_with_ssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salik_seraj_naik" height="30" width="40" /></a>
 <a href="https://youtube.com/@Yt.CodeWithSsn?si=sN_l_5aGx3nMhNkI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yt.codewithssn" height="30" width="40" /></a>
 </p>
 
