@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-
 </div>
 
 
-### Badges
+###
 
 <b>My GitHub Stats</b>
 
