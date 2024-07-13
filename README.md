@@ -45,11 +45,7 @@ src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Salik-Seraj/count.svg?"  />
-</div>
 ### Badges
 
 <b>My GitHub Stats</b>
