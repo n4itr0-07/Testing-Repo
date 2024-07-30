@@ -11,7 +11,6 @@ I started my journey in 2023. As a CSE student in a 3rd tier college, currently.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [salikserajnaik@gmail.com](mailto:salikserajnaik@gmail.com)
-* 🧠  I'm learning Python, Web Development
 * 🤝  I'm open to collaborating on interesting Projects
 
 <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
