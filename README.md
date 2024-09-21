@@ -7,7 +7,6 @@
 Computer Science Student | Exploring | Data Science | Cyber Security
 --------------------------------------------------------------------
 
-I started my journey in 2023. As a CSE student in a 3rd tier college, currently. I am upskilling my skills.
 
 
 
