@@ -7,7 +7,7 @@
 Computer Science Student | Exploring | Cyber Security
 --------------------------------------------------------------------
 
-**Just a Noob who is learning different stuff!!!**
+- <b>Just a Noob who is learning different stuff!!!</b>
 ---
 
 
