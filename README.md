@@ -1,24 +1,14 @@
-<img src="Header_Image.png" alt="Header Image"> </img>
-
+<!--
 
  ‏اَلسَلامُ عَلَيْكُم وَرَحْمَةُ اَللهِ وَبَرَكاتُهُ‎
 ========================================================================================================================================
-
+-->
 Computer Science Student | Exploring | Cyber Security
 --------------------------------------------------------------------
 
 - <b>Just a Noob who is learning different stuff!!!</b>
 ---
 
-
-
-
-
-<img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
-
-<a href="https://www.x.com/code_with_ssn" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
@@ -29,7 +19,7 @@ src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-
 
 
 ### Socials
-
+<!--
 <div align="left">
   <a href="https://www.youtube.com/@Yt.CodeWithSsn" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -44,15 +34,15 @@ src="https://img.shields.io/twitter/follow/code_with_ssn?logo=twitter&style=for-
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
-
+-->
 ###
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Salik-Seraj"><img src="https://github-readme-stats.vercel.app/api?username=Salik-Seraj&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Salik-Seraj's GitHub stats" /></a>
+<a href="http://www.github.com/n4itr0-07"><img src="https://github-readme-stats.vercel.app/api?username=n4itr0-07&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt=" GitHub stats" /></a>
 
-<a href="http://www.github.com/Salik-Seraj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Salik-Seraj&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/n4itr0-07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=n4itr0-07&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Salik-Seraj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salik-Seraj&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/n4itr0-07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4itr0-07&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---  
 
