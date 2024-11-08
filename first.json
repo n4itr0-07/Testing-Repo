@@ -1,0 +1,13 @@
+{
+  "name": "Naitro",
+  "age": 30,
+  "email": "naitro@example.com",
+  "isActive": true,
+  "address": {
+    "street": "123 Elm St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "interests": ["reading", "traveling", "coding"]
+}
