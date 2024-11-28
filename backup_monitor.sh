@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Project: Backup and Disk Usage Monitor
-# Author: [Your Name]
-# Date: [Today's Date]
+# Author: N4ITR0-07 
+# Date: 28-11-24
 # Description: This script creates a backup of a specified directory and checks the disk usage of the system.
 # It will notify the user if disk usage exceeds a threshold.
 
