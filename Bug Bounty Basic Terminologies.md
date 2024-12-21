@@ -1,4 +1,4 @@
-Bug bounty hunting involves a vast array of terms and concepts that are essential for navigating platforms, communicating with triage teams, and understanding the lifecycle of vulnerability reports. Below is an exhaustive list of terminologies commonly encountered in bug bounty programs:
+iBug bounty hunting involves a vast array of terms and concepts that are essential for navigating platforms, communicating with triage teams, and understanding the lifecycle of vulnerability reports. Below is an exhaustive list of terminologies commonly encountered in bug bounty programs:
 
 
 ---
@@ -44,7 +44,6 @@ Insecure Direct Object Reference (IDOR): Gaining unauthorized access to resource
 Cross-Site Request Forgery (CSRF): Forcing a user to execute unwanted actions on a web application in which they are authenticated.
 
 
-
 ---
 
 3. Report Statuses
@@ -83,7 +82,6 @@ Critical: Severe vulnerabilities that can cause catastrophic consequences, such 
 
 
 CVSS (Common Vulnerability Scoring System): A standardized framework used to evaluate the severity of a vulnerability based on factors like exploitability and impact.
-
 
 
 ---
