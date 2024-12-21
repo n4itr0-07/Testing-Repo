@@ -1,4 +1,4 @@
-iBug bounty hunting involves a vast array of terms and concepts that are essential for navigating platforms, communicating with triage teams, and understanding the lifecycle of vulnerability reports. Below is an exhaustive list of terminologies commonly encountered in bug bounty programs:
+Bug bounty hunting involves a vast array of terms and concepts that are essential for navigating platforms, communicating with triage teams, and understanding the lifecycle of vulnerability reports. Below is an exhaustive list of terminologies commonly encountered in bug bounty programs:
 
 
 ---
