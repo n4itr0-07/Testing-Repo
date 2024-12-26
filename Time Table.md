@@ -1,10 +1,9 @@
-
-# ðŸ›¡ï¸ **1-Year Bug Bounty Learning Timetable**  
+# 🛡️ **1-Year Bug Bounty Learning Timetable**  
 *"Success comes to those who hustle for it!"*  
 
 ---
 
-## **Phase 1: Linux & Networking Basics + Exams (Dec 26, 2024 â€“ Feb 2, 2025)**  
+## **Phase 1: Linux & Networking Basics + Exams (Dec 26, 2024 – Feb 2, 2025)**  
 Focus: Learn Linux and networking while preparing for exams.  
 
 ### Daily Timetable (Winter Timings)
@@ -24,7 +23,7 @@ Focus: Learn Linux and networking while preparing for exams.
 
 ---
 
-## **Phase 2: Programming + Bug Bounty Basics (Feb 3 â€“ April 30, 2025)**  
+## **Phase 2: Programming + Bug Bounty Basics (Feb 3 – April 30, 2025)**  
 Focus: Build programming knowledge (JavaScript, PHP) and learn core bug bounty concepts.  
 
 ### Daily Timetable (Post-Winter Timings)
@@ -40,11 +39,11 @@ Focus: Build programming knowledge (JavaScript, PHP) and learn core bug bounty c
 | **8:00 PM - 8:30 PM** | Break and dinner.                                                    |
 | **8:30 PM - 9:30 PM** | Practice Burp Suite on DVWA or Juice Shop.                           |
 
-> **Motivational Quote**: *"The harder you work for something, the greater youâ€™ll feel when you achieve it."*
+> **Motivational Quote**: *"The harder you work for something, the greater you’ll feel when you achieve it."*
 
 ---
 
-## **Phase 3: Advanced Bug Bounty + Programming (May 1 â€“ Aug 31, 2025)**  
+## **Phase 3: Advanced Bug Bounty + Programming (May 1 – Aug 31, 2025)**  
 Focus: Advanced bug bounty concepts, Go and Rust basics, backend testing, and automation.  
 
 ### Daily Timetable (Summer Timings)  
@@ -63,7 +62,7 @@ Focus: Advanced bug bounty concepts, Go and Rust basics, backend testing, and au
 
 ---
 
-## **Phase 4: Real Bug Bounty + Earning (Sept 1 â€“ Dec 31, 2025)**  
+## **Phase 4: Real Bug Bounty + Earning (Sept 1 – Dec 31, 2025)**  
 Focus: Active participation in bug bounty programs, earning money, and specializing in API testing or web vulnerabilities.  
 
 ### Daily Timetable (Post-Summer Timings)
@@ -82,7 +81,7 @@ Focus: Active participation in bug bounty programs, earning money, and specializ
 
 ---
 
-### **Tools & Resources Youâ€™ll Need**  
+### **Tools & Resources You’ll Need**  
 1. **Tools**:  
    - Linux Terminal, Wireshark, Nmap, Burp Suite, Postman, ffuf, Nuclei.  
 2. **Platforms**:  
@@ -91,11 +90,11 @@ Focus: Active participation in bug bounty programs, earning money, and specializ
    - `Linux Basics for Hackers`, `Practical Ethical Hacking`, `PortSwigger Labs`.  
 4. **Write-Ups & Videos**:  
    - Bug bounty success write-ups on HackerOne.  
-   - Videos by insiderphd, STÃ–K, and John Hammond.  
+   - Videos by insiderphd, STÖK, and John Hammond.  
 
 ### **Additional Notes**  
 - **Weekly Review**: Dedicate Sundays to reviewing your progress and improving weak areas.  
 - **Networking**: Join Telegram/Discord groups to stay updated with bug bounty trends.  
 - **Goal**: Submit at least **1 valid bug report every two weeks** from September onward.  
 
-> **Final Motivation**: *"Struggle now so you can live your dreams later. Your hard work will pay offâ€”trust the process!"*
+> **Final Motivation**: *"Struggle now so you can live your dreams later. Your hard work will pay off—trust the process!"*
