@@ -1,0 +1,206 @@
+Creating a custom wordlist tailored to the target website, such as rbs.co.uk, is a powerful technique to boost your recon efforts. A customized wordlist improves the chances of discovering sensitive endpoints, hidden directories, subdomains, and more. Below, I'll guide you step-by-step on how to achieve this, including tools, methodologies, and advanced techniques.
+
+
+---
+
+Step 1: Gather Relevant Content for Wordlist Generation
+
+To generate a robust wordlist, collect as much data as possible related to the target website:
+
+1. Crawl the Website
+
+Use tools like gobuster, dirsearch, or hakrawler to scrape URLs, paths, and endpoints.
+
+gobuster dir -u https://rbs.co.uk -w /path/to/common_wordlists.txt -o gobuster_results.txt
+
+Use hakrawler for crawling JavaScript files, CSS, and more.
+
+echo "https://rbs.co.uk" | hakrawler -u -depth 3 -plain > hakrawler_urls.txt
+
+
+
+2. Download & Analyze JavaScript Files
+
+JavaScript often contains endpoints, secrets, or API routes.
+
+Use tools like getjs or subjs to extract all JavaScript files.
+
+getjs -u https://rbs.co.uk > js_files.txt
+
+Then extract meaningful data from JS files using LinkFinder:
+
+python3 linkfinder.py -i js_files.txt -o endpoints.txt
+
+
+
+3. Enumerate Subdomains
+
+Subdomains can be critical for finding unique paths and context-specific words. Use tools like:
+
+assetfinder: Quickly find related subdomains.
+
+amass: Perform a full subdomain reconnaissance.
+
+
+assetfinder --subs-only rbs.co.uk > subdomains.txt
+amass enum -d rbs.co.uk -o amass_subdomains.txt
+
+
+
+4. Analyze Response Bodies
+
+Fetch and analyze HTML/JSON responses using httpx or curl.
+
+
+curl -s https://rbs.co.uk | html2text > response.txt
+
+
+
+
+---
+
+Step 2: Generate a Custom Wordlist
+
+Once you have raw data, you can use tools to extract unique words and patterns:
+
+1. Extract Keywords from Collected Data
+
+Use cewl to scrape keywords from pages:
+
+cewl https://rbs.co.uk -d 3 -w custom_wordlist.txt
+
+Use strings and grep to extract unique paths and URLs:
+
+strings *.js | grep -oE '[A-Za-z0-9_/-]{4,}' > keywords.txt
+
+
+
+2. Generate Word Combinations
+
+Pass your keywords into wordlistctl to generate variations.
+
+wordlistctl generate -i keywords.txt -o combined_wordlist.txt
+
+
+
+3. Analyze Content for Patterns
+
+Use gf patterns for hunting common vulnerabilities:
+
+cat js_files.txt | gf xss > xss_patterns.txt
+cat response.txt | gf sqli > sqli_patterns.txt
+
+
+
+4. Include Tech-Specific Words
+
+Look for technology-specific keywords (e.g., frameworks, libraries) by using wappalyzer:
+
+wappalyzer https://rbs.co.uk
+
+
+
+
+
+---
+
+Step 3: Tools to Refine Wordlists
+
+Use tools to refine, merge, and deduplicate your wordlists.
+
+1. Wordlist Utilities
+
+sort & uniq: Remove duplicates and organize the wordlist.
+
+sort -u combined_wordlist.txt -o refined_wordlist.txt
+
+tr: Normalize case and format.
+
+cat refined_wordlist.txt | tr 'A-Z' 'a-z' > normalized_wordlist.txt
+
+
+
+2. Common Wordlist Generators
+
+SecLists: Start with base wordlists (e.g., directory-list-2.3-medium.txt) and customize.
+
+Commonspeak2: Focused on discovering modern endpoints.
+
+git clone https://github.com/assetnote/commonspeak2.git
+
+
+
+3. Custom Wordlist Tools
+
+ffuf wordlist generator:
+
+ffuf -w https://rbs.co.uk -mc all -o ffuf_wordlist.txt
+
+
+
+
+
+---
+
+Step 4: Test and Iterate
+
+Use the custom wordlist to hunt for endpoints and vulnerabilities:
+
+1. Directory Bruteforcing
+
+Test your custom wordlist with tools like gobuster or ffuf.
+
+gobuster dir -u https://rbs.co.uk -w refined_wordlist.txt
+ffuf -u https://rbs.co.uk/FUZZ -w refined_wordlist.txt
+
+
+
+2. Endpoint Discovery via APIs
+
+Use the wordlist for API fuzzing (e.g., paths, parameters):
+
+ffuf -u https://rbs.co.uk/api/v1/FUZZ -w refined_wordlist.txt
+
+
+
+3. Filter Noise
+
+Focus on valid status codes (e.g., 200, 302, 401).
+
+
+
+
+
+---
+
+Pro Tips for Master-Level Recon
+
+1. Integrate AI Models
+
+Use ChatGPT APIs to analyze text and extract context-specific keywords.
+
+from openai import ChatCompletion
+# Provide content from crawled pages for analysis
+
+
+
+2. Monitor Technologies
+
+Use whatweb or wappalyzer to detect CMS/frameworks and generate framework-specific wordlists.
+
+
+
+3. Recursive Enumeration
+
+Discover hidden directories recursively with tools like dirsearch:
+
+dirsearch -u https://rbs.co.uk -w refined_wordlist.txt -e php,asp,aspx
+
+
+
+
+
+---
+
+By combining these techniques, you’ll have a highly targeted wordlist tailored to rbs.co.uk, significantly improving your recon capabilities. Let me know if you’d like to dive deeper into any specific step!
+
