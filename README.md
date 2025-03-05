@@ -1,7 +1,7 @@
 ### 🏗️ **Testing-Repo** 🏗️  
 #### _A Random Collection of Chaos_  
 
-Welcome to **Testing-Repo**, where randomness thrives! 😉😉😉
+**Nothing-to-See 👀**, where randomness thrives! 😉😉😉
 
 ⚠️ **Warning:** This repo contains **absolutely nothing useful** 80% of the time. It's just a dumping ground for random files to keep my GitHub streak alive.  
 
