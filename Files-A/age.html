@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Age Verification</title>
+</head>
+<body>
+    <h1>Age Verification</h1>
+    <p id="message"></p>
+
+    <script>
+        let age = prompt("What is your age")
+        if (age >= 18) {
+            document.getElementById("message").innerHTML = "You are an adult.";
+        } else {
+            document.getElementById("message").innerHTML = "You are a minor.";
+        }
+    </script>
+</body>
+</html>
+
